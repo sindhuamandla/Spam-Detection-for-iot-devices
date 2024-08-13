@@ -1,1 +1,2 @@
 # Spam-Detection-for-iot-devices
+Spam detection for IoT devices using message_id and date inputs enhances network security and efficiency by analyzing frequency and timing patterns to identify unusual or repetitive activities indicative of spam. This filter reduces unauthorized access, data leaks, and network congestion, ensuring the ecosystem's trustworthiness and integrity.Using lightweight machine learning models that are optimized for low power and computational resources can help in detecting spam. 
